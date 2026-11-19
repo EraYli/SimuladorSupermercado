@@ -1,0 +1,12 @@
+{
+  "name": "simulador-flujo-supermercado",
+  "version": "0.3.0",
+  "description": "Simulador de flujo de supermercado: motor de eventos discretos + módulos de estado, rutas, escenarios e interfaz 5 vistas",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.js",
+    "dev": "node scripts/serve.js",
+    "test": "node --test tests/*.test.js",
+    "demo": "node scripts/demo.js"
+  }
+}
